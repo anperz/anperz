@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript ...
 - 📫 Reach me on amperezpe@gmail.com ...
 
-[![Anperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anperz&show_icons=true&theme=angolia)
+[![Anperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anperz&theme=angolia&show_icons=true)
 
 
