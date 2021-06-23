@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @anperz
-- 👀 I’m interested in Frontend Development ...
-- 🌱 I’m currently learning HTML, CSS and Javascript ...
-- 📫 Reach me on amperezpe@gmail.com ...
+# 👋 Hi, I’m Andres Perez
+- 📝 Currently learning Frontend development at Platzi.com
+- 📫 Reach me on amperezpe@gmail.com
 
 ![Anperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anperz&theme=algolia&show_icons=true)
-
 
