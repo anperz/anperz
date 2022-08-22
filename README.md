@@ -2,8 +2,11 @@
 - 📝 Currently learning Frontend development at Platzi.com
 - 📫 Reach me on amperezpe@gmail.com
 
-![Anperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anperz&theme=algolia&show_icons=true)
 
+
+<!-- 
+![Anperz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anperz&theme=algolia&show_icons=true)
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
