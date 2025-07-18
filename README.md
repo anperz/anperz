@@ -20,7 +20,7 @@ I'm especially interested in building productivity tools for teams, browser exte
 
 ## 🚀 Projects
 
-🌐 [**Catalogador de Audiencias Judiciales**](#)  
+🌐 **Catalogador de Audiencias Judiciales** 
 Tool to organize and replay court video recordings, used by legal administrators.
 
 📊 **Power BI Analytics Suite**  
@@ -28,6 +28,8 @@ Internal dashboards that reduced reporting times by 50% and improved decision-ma
 
 📦 **Custom Electron App for Document Management**  
 Hybrid desktop app to automate document classification and tagging.
+
+https://www.linkedin.com/in/anperz/
 
 ---
 
